@@ -79,6 +79,6 @@ jobs:
       uses: github/codeql-action/analyze@v3
       with:
         category: "/language:${{matrix.language}}"
- <uses permissions> create package android cartegory: permissions appt nano 
+ 
  /and formate smartphone
  
